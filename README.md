@@ -17,9 +17,8 @@
 
 Results-driven Business Analyst and Full-Stack Developer with **5+ years** of experience bridging IT, Operations, and business units in financial services. Proven track record of:
 
-- 🎯 Gathering requirements from **4-5 key stakeholders** per project
-- 📊 Facilitating **3-4 monthly** stakeholder meetings  
-- 👥 Leading cross-functional teams of **12-20 members**
+- 🎯 Gathering requirements from **key stakeholders** for Business requirement documents
+- 👥 Leading cross-functional teams of **6-20 members**
 - ✅ Delivering **3-5 system enhancements** per project with **85-100% success rate**
 - 📈 Improving requirement clarity by **40%** and operational efficiency by **60%**
 
@@ -57,8 +56,8 @@ Expert in SQL data validation, ETL testing, and SDLC methodologies with demonstr
 - Managed **2 concurrent project modules**
 
 **⚙️ System Development & Implementation:**
-- Processed **300 employees'** financial data projections over **70-year lifecycle** with **85% data accuracy**
-- Reduced workflow processing time from **3 minutes to 1 minute** (**67% improvement**)
+- Processed **300+ employees'** financial data projections over **70-year lifecycle** with **85% data accuracy**
+- Improved workflow processing time by **67%**)
 - Improved database performance by **40%** through **3-4 automated processes**
 
 **📊 Process Improvement & Automation:**
@@ -83,7 +82,7 @@ Expert in SQL data validation, ETL testing, and SDLC methodologies with demonstr
 - Oversaw **3-5 system enhancements** per project
 
 **👥 Team Leadership & Project Management:**
-- Led Agile team of **12-20 members** with **85-100% delivery success rate**
+- Led Agile team of **5-12 members** with **85-100% delivery success rate**
 - Managed **2 concurrent projects** with multiple modules
 - Maintained **85% data accuracy** across millions of transactions
 
@@ -101,7 +100,7 @@ Expert in SQL data validation, ETL testing, and SDLC methodologies with demonstr
 
 **⚙️ System Migration & Development:**
 - Migrated legacy banking application to modern Angular framework
-- Developed "Instant Loan" module reducing processing time from **3 minutes to 1 minute**
+- Developed "Instant Loan" module reducing processing time from **5 minutes to 2 minute**
 - Oversaw **3-5 system enhancements** per project
 
 **🔍 Quality Assurance & Compliance:**
