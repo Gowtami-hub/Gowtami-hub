@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gowtami Rao Marrapu
+# Hello! 👋 I'm Gowtami Rao Marrapu
 
 <div align="center">
   
