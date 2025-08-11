@@ -152,7 +152,7 @@ GVP College of Engineering, Visakhapatnam, India | *2014-2018*
 
 </div>
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
@@ -164,7 +164,7 @@ GVP College of Engineering, Visakhapatnam, India | *2014-2018*
 
 </div>
 
----
+----->
 
 ## 🌟 What I'm Currently Learning
 
