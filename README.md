@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 💼 Business Analyst | Full-Stack Developer | Data Engineer | Financial Systems Specialist
+### 💼  Full-Stack Developer
 📍 Louisville, KY | 📧 mgowtamir14@gmail.com | 📱 (502) 298-7825
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gowtami-rao-marrapu-36770a165)
